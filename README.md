@@ -34,13 +34,10 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+
+
+
 <br>
-💡 "Great design is not just what it looks like — it's how it works"
-
-
-<br>
-
-
 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -66,3 +63,7 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
 </p>
+
+--
+<br>
+💡 "Great design is not just what it looks like — it's how it works"
