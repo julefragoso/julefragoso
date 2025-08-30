@@ -27,7 +27,7 @@ Sustainable accommodations platform
 
 
 <br>
-## 🌐 Connect with me
+🌐 Connect with me
 
 🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
