@@ -57,7 +57,7 @@ Sustainable accommodations platform
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me</h3>
 
-[www.julianfragoso.com](https://www.julianfragoso.com)<br>
+🌐[www.julianfragoso.com](https://www.julianfragoso.com)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
 💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
 <br>
