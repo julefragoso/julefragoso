@@ -20,6 +20,7 @@ Sustainable accommodations platform
 <a href="https://ecoalojamientos.vercel.com" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
 </a>
+<br>
 
 <br>
 📊 Most Used Languages
