@@ -1,4 +1,4 @@
-👋 Hey, I'm Julian Fragoso
+<h1 style="font-size: 3em;">👋 Hey, I'm Julian Fragoso</h1>
 ---
 <br>
 
