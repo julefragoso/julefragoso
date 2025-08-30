@@ -28,15 +28,9 @@ Sustainable accommodations platform
 
 <br>
 🌐 Connect with me
-<a href="https://www.julianfragoso.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-</a>
-<a href="https://x.com/jaytehsouth" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.linkedin.com/in/julian-fragoso/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+🌐 www.julianfragoso.com
+𝕏 x.com/jaytehsouth
+💼 linkedin.com/in/julian-fragoso
 <br>
 <br>
 
