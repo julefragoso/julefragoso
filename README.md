@@ -21,7 +21,8 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
 </a>
 <br>
-
+<br>
+<br>
 <br>
 📊 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
