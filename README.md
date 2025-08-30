@@ -11,8 +11,8 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 
 - 🎮 Jugamos Ya
 → Sports Facility Booking Platform
-<a href="https://jugamosya.vercel.com" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+<a href="https://jugamosya.vercel.com" target="_blank"><img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+
 </a>
 
 - 🏡 Ecoalojamientos
