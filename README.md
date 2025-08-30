@@ -2,9 +2,8 @@
 <br>
 
 <h3 style="font-weight: bold; font-size: 1.5em;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"> Frontend Developer & UX Designer</h3>
-I'm passionate about creating digital projects, providing creative solutions that are<br>
-visually appealing and user-friendly, 
-while focusing on clean and efficient design.
+I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly,<br>
+while focusing on clean and efficient design. I enjoy exploring Web3 technologies and building decentralized applications.
 <br>
 <br>
 <br>
