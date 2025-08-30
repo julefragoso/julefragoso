@@ -27,16 +27,6 @@ Sustainable accommodations platform
 
 
 <br>
-<h3 style="font-weight: bold; font-size: 1.5em;">🌐 Connect with me</h3>
-
-🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
-𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
-💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
-<br>
-<br>
-
-
-<br>
 <h3 style="font-weight: bold; font-size: 1.5em;">🛠️ Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -62,6 +52,15 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
 </p>
+
+<br>
+<h3 style="font-weight: bold; font-size: 1.5em;">🌐 Connect with me</h3>
+
+🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
+𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
+💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
+<br>
+<br>
 
 <br>
 <br>
