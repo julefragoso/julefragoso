@@ -1,4 +1,9 @@
-<h1 style="font-size: 3em;">👋 Hey, I'm Julian Fragoso</h1>
+<table>
+<tr>
+<td><h1 style="font-size: 3em;">👋 Hey, I'm Julian Fragoso</h1></td>
+<td align="right"><img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/></td>
+</tr>
+</table>
 ---
 <br>
 
@@ -37,7 +42,7 @@ Sustainable accommodations platform
 
 <br>
 💡 "Great design is not just what it looks like — it's how it works"
-<img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
 
 <br>
 
