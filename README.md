@@ -28,6 +28,7 @@ Sustainable accommodations platform
 
 <br>
 🌐 Connect with me
+
 <a href="https://x.com/jaytehsouth" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
