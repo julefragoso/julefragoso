@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1>👋 Hey, I'm Julian Fragoso</h1>
-  <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<div style="width: 100%; overflow: hidden;">
+  <h1 style="float: left;">👋 Hey, I'm Julian Fragoso</h1>
+  <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views" style="float: right; margin-top: 10px;"/>
 </div>
 
 <br>
