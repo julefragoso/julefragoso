@@ -27,10 +27,11 @@ Sustainable accommodations platform
 
 
 <br>
-🌐 Connect with me
-🌐 www.julianfragoso.com
-𝕏 x.com/jaytehsouth
-💼 linkedin.com/in/julian-fragoso
+## 🌐 Connect with me
+
+🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
+𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
+💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
 <br>
 <br>
 
