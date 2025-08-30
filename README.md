@@ -8,7 +8,7 @@ while focusing on clean and efficient design.
 <br>
 <br>
 <br>
-<h3 style="font-weight: bold; font-size: 1.5em;">🎯 Featured Projects</h3>
+<h3 style="font-weight: bold; font-size: 1.5em;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"> Featured Projects</h3>
 
 - 🎮 Jugamos Ya
 Interactive gaming platform
