@@ -1,11 +1,7 @@
-<table style="border: none;">
-<tr>
-<td style="border: none;"><h1>👋 Hey, I'm Julian Fragoso</h1></td>
-<td align="right" style="border: none;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1>👋 Hey, I'm Julian Fragoso</h1>
   <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
