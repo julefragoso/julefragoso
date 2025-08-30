@@ -25,6 +25,7 @@ Sustainable accommodations platform
 📊 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
+
 <br>
 🌐 Connect with me
 <a href="https://x.com/jaytehsouth" target="_blank">
@@ -33,8 +34,8 @@ Sustainable accommodations platform
 <a href="https://www.linkedin.com/in/julian-fragoso/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-
+<br>
+<br>
 
 
 <br>
