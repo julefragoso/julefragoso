@@ -24,12 +24,12 @@ Sustainable accommodations platform
 <br>
 <br>
 <br>
-<h3 style="font-weight: bold; font-size: 1.5em;">📊 Most Used Languages</h3>
+<h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> Most Used Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
 
 <br>
-<h3 style="font-weight: bold; font-size: 1.5em;">🛠️ Tech Stack</h3>
+<h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" height="25" /> Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -58,7 +58,7 @@ Sustainable accommodations platform
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;">🌐 Connect with me</h3>
 
-🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="25" height="25" /> [www.julianfragoso.com](https://www.julianfragoso.com)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
 💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
 <br>
