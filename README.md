@@ -3,7 +3,7 @@
 
 <h3 style="font-weight: bold; font-size: 1.5em;">🚀 Frontend Developer & UX Designer</h3>
 I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly, while focusing on clean and efficient design.
-
+<br>
 <br>
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;">🎯 Featured Projects</h3>
@@ -21,7 +21,7 @@ Sustainable accommodations platform
 </a>
 <br>
 <br>
-
+<br>
 <h3 style="font-weight: bold; font-size: 1.5em;">📊 Most Used Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
