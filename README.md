@@ -17,8 +17,8 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 
 - 🏡 Ecoalojamientos
 → Sustainable Accommodations Booking platform
-<a href="https://ecoalojamientos.vercel.com" target="_blank">
-  <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+<a href="https://ecoalojamientos.vercel.com" target="_blank"><img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+
 </a>
 <br>
 <br>
