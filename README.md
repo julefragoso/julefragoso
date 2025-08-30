@@ -22,7 +22,7 @@ Sustainable accommodations platform
 <br>
 <br>
 <br>
-📊 Most Used Languages
+<h3 style="font-weight: bold; font-size: 1.5em;">📊 Most Used Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
 
