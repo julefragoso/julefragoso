@@ -1,6 +1,36 @@
 👋 Hey, I'm Julian Fragoso
+---
+
 🚀 Frontend Developer & UX Designer
 I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly, while focusing on clean and efficient design.
+
+
+🎯 Featured Projects
+🎮 Jugamos Ya
+Interactive gaming platform
+<a href="https://jugamosya.vercel.com" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+</a>
+🏡 Ecoalojamientos
+Sustainable accommodations platform
+<a href="https://ecoalojamientos.vercel.com" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+</a>
+
+📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+
+🌐 Connect with me
+<a href="https://x.com/jaytehsouth" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.linkedin.com/in/julian-fragoso/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+💡 "Great design is not just what it looks like — it's how it works"
+<img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
 
 🛠️ Tech Stack
 <p>
@@ -27,31 +57,3 @@ I'm passionate about creating digital projects, providing creative solutions tha
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
 </p>
-
-🎯 Proyectos Destacados
-🎮 Jugamos Ya
-Plataforma de gaming interactiva
-<a href="https://jugamosya.vercel.com" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Proyecto-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Proyecto"/>
-</a>
-🏡 Ecoalojamientos
-Plataforma de alojamientos sustentables
-<a href="https://ecoalojamientos.vercel.com" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Proyecto-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Proyecto"/>
-</a>
-
-📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=julefragoso&theme=react&hide_border=true" alt="GitHub Streak"/>
-
-🌐 Conecta conmigo
-<a href="https://x.com/jaytehsouth" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.linkedin.com/in/julian-fragoso/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-💡 "Great design is not just what it looks like — it's how it works"
-<img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
