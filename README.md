@@ -1,12 +1,12 @@
 <h1>👋 Hey, I'm Julian Fragoso <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views" align="right"/></h1>
 <br>
 
-🚀 Frontend Developer & UX Designer
+<h3 style="font-weight: bold; font-size: 1.5em;">🚀 Frontend Developer & UX Designer</h3>
 I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly, while focusing on clean and efficient design.
 
 
 <br>
-🎯 Featured Projects
+<h3 style="font-weight: bold; font-size: 1.5em;">🎯 Featured Projects</h3>
 
 - 🎮 Jugamos Ya
 Interactive gaming platform
@@ -27,7 +27,7 @@ Sustainable accommodations platform
 
 
 <br>
-🌐 Connect with me
+<h3 style="font-weight: bold; font-size: 1.5em;">🌐 Connect with me</h3>
 
 🌐 [www.julianfragoso.com](https://www.julianfragoso.com)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
