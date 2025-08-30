@@ -1,8 +1,10 @@
 👋 Hey, I'm Julian Fragoso
 ---
 
+
 🚀 Frontend Developer & UX Designer
 I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly, while focusing on clean and efficient design.
+
 
 
 🎯 Featured Projects
@@ -17,8 +19,12 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
 </a>
 
+
+
 📊 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+
+
 
 🌐 Connect with me
 <a href="https://x.com/jaytehsouth" target="_blank">
@@ -28,9 +34,13 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+
+
 💡 "Great design is not just what it looks like — it's how it works"
 <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
+
+---
 
 🛠️ Tech Stack
 <p>
