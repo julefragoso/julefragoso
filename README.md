@@ -22,13 +22,11 @@ Sustainable accommodations platform
 </a>
 
 <br>
-
 📊 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
 <br>
-
 🌐 Connect with me
 <a href="https://x.com/jaytehsouth" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
@@ -38,11 +36,10 @@ Sustainable accommodations platform
 </a>
 
 <br>
-
 💡 "Great design is not just what it looks like — it's how it works"
 <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
-
+<br>
 ---
 
 🛠️ Tech Stack
