@@ -60,7 +60,6 @@ Sustainable accommodations platform
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
 💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
 <br>
-<br>
 
 <br>
 <br>
