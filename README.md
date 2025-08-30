@@ -4,7 +4,7 @@
 <h3 style="font-weight: bold; font-size: 1.5em;">🚀 Frontend Developer & UX Designer</h3>
 I'm passionate about creating digital projects, providing creative solutions that are visually appealing and user-friendly, while focusing on clean and efficient design.
 
-
+<br>
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;">🎯 Featured Projects</h3>
 
