@@ -64,6 +64,6 @@ Sustainable accommodations platform
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask"/>
 </p>
 
----
+<br>
 <br>
 💡 "Great design is not just what it looks like — it's how it works"
