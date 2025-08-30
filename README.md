@@ -40,7 +40,7 @@ Sustainable accommodations platform
 <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 <br>
----
+
 
 🛠️ Tech Stack
 <p>
