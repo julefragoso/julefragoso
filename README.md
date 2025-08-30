@@ -24,7 +24,7 @@ Sustainable accommodations platform
 <br>
 <br>
 <br>
-<h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" height="25" /> Most Used Languages</h3>
+<h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Most Used Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julefragoso&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
 
 
