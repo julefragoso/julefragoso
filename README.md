@@ -10,13 +10,13 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 <h3 style="font-weight: bold; font-size: 1.5em;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="25"> Featured Projects</h3>
 
 - 🎮 Jugamos Ya
-Interactive gaming platform
+→ Sports Facility Booking Platform
 <a href="https://jugamosya.vercel.com" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
 </a>
 
 - 🏡 Ecoalojamientos
-Sustainable accommodations platform
+→ Sustainable Accommodations Booking platform
 <a href="https://ecoalojamientos.vercel.com" target="_blank">
   <img src="https://img.shields.io/badge/View_Project-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
 </a>
