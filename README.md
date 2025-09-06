@@ -57,7 +57,6 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 
 🌐[www.julianfragoso.com](https://www.julianfragoso.com)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
-💼 [linkedin.com/in/julian-fragoso](https://www.linkedin.com/in/julian-fragoso/)
 <br>
 
 <br>
