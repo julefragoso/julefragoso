@@ -55,7 +55,7 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me</h3>
 
-🌐[www.julianfragoso.com](https://www.jaysouth.xyz)<br>
+🌐[www.jaysouth.xyz](https://www.jaysouth.xyz)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
 <br>
 
