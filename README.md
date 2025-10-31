@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Julian <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views" align="right"/></h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, I'm Jay South <img src="https://komarev.com/ghpvc/?username=julefragoso&color=blueviolet&style=for-the-badge" alt="Profile Views" align="right"/></h1>
 <br>
 
 <h3 style="font-weight: bold; font-size: 1.5em;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25"> Frontend Developer & UX Designer</h3>
@@ -55,7 +55,7 @@ while focusing on clean and efficient design. I enjoy exploring Web3 technologie
 <br>
 <h3 style="font-weight: bold; font-size: 1.5em;"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me</h3>
 
-🌐[www.julianfragoso.com](https://www.julianfragoso.com)<br>
+🌐[www.julianfragoso.com](https://www.jaysouth.xyz)<br>
 𝕏 [x.com/jaytehsouth](https://x.com/jaytehsouth)<br>
 <br>
 
